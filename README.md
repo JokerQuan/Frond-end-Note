@@ -14,7 +14,7 @@
 
 ### <a name="professional_javascript">JavaScript 高级程序设计</a>
 
-- [第二章 在HTML中使用JavaScript](./JavaScript高级程序设计(第三版)/第二章 在HTML中使用JavaScript.md)
+- [第二章 在HTML中使用JavaScript](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第二章%20在HTML中使用JavaScript.md)
 - [第三章 基本概念](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第三章 基本概念.md)
 - [第四章 变量、作用域和内存问题](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第四章 变量、作用域和内存问题.md)
 - [第五章 引用类型](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第五章 引用类型.md)
