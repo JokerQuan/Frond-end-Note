@@ -14,7 +14,7 @@
 
 ### <a name="professional_javascript">JavaScript 高级程序设计</a>
 
-- [第二章 在HTML中使用JavaScript](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第二章 在HTML中使用JavaScript.md)
+- [第二章 在HTML中使用JavaScript](./JavaScript高级程序设计(第三版)/第二章 在HTML中使用JavaScript.md)
 - [第三章 基本概念](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第三章 基本概念.md)
 - [第四章 变量、作用域和内存问题](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第四章 变量、作用域和内存问题.md)
 - [第五章 引用类型](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第五章 引用类型.md)
@@ -38,7 +38,7 @@
 - [第二十五章 新兴的 API](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第二十五章 新兴的 API.md)
 - [附录](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/附录.md)
 
-### <a name="#data_stuct">数据结构与算法 JavaScript 描述</a>
+### <a name="data_stuct">数据结构与算法 JavaScript 描述</a>
 
 
 
