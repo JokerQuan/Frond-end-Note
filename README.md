@@ -23,7 +23,7 @@
 - [第八章 BOM](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第八章%20BOM.md)
 - [第九章 客户端检测](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第九章%20客户端检测.md)
 - [第十章 DOM](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第十章%20DOM.md)
-- [第十一章 DOM 扩展](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第十一章%20DOM 扩展.md)
+- [第十一章 DOM 扩展](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第十一章%20DOM%20扩展.md)
 - [第十二章 DOM2 和 DOM3](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第十二章%20DOM2%20和%20DOM3.md)
 - [第十三章 事件](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第十三章%20事件.md)
 - [第十四章 表单脚本](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第十四章%20表单脚本.md)
