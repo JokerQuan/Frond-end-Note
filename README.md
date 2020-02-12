@@ -40,7 +40,7 @@
 
 ### <a name="data_stuct">数据结构与算法 JavaScript 描述</a>
 
-- [说明](https://github.com/JokerQuan/Front-End-Note/blob/master/数据结构与算法%20JavaScript%20描述/说明.md)
+- [数据结构与算法JavaScript描述]([https://github.com/JokerQuan/Front-End-Note/blob/master/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%20JavaScript%20%E6%8F%8F%E8%BF%B0/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95JavaScript%E6%8F%8F%E8%BF%B0.md](https://github.com/JokerQuan/Front-End-Note/blob/master/数据结构与算法 JavaScript 描述/数据结构与算法JavaScript描述.md))
 
 
 
