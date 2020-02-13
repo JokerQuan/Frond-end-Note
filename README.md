@@ -5,8 +5,8 @@
 ## 书籍目录
 
 1. <a href="#professional_javascript">JavaScript 高级程序设计</a>
-
 2. <a href="#data_stuct">数据结构与算法 JavaScript 描述</a>
+3. <a href="#maintainable_javascript">编写可维护的JavaScript</a>
 
 
 
@@ -38,11 +38,19 @@
 - [第二十五章 新兴的 API](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第二十五章%20新兴的%20API.md)
 - [附录](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/附录.md)
 
+
+
 ### <a name="data_stuct">数据结构与算法 JavaScript 描述</a>
 
 - [数据结构与算法JavaScript描述](https://github.com/JokerQuan/Front-End-Note/blob/master/数据结构与算法%20JavaScript%20描述/数据结构与算法JavaScript描述.md)
 
 
+
+### <a name="maintainable_javascript">编写可维护的JavaScript</a>
+
+- [第一部分 编程实践](https://github.com/JokerQuan/Front-End-Note/blob/master/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JavaScript/%E7%AC%AC%E4%B8%80%E9%83%A8%E5%88%86%20%E7%BC%96%E7%A8%8B%E9%A3%8E%E6%A0%BC.md)
+- [第二部分 编程风格](https://github.com/JokerQuan/Front-End-Note/blob/master/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84JavaScript/%E7%AC%AC%E4%BA%8C%E9%83%A8%E5%88%86%20%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5.md)
+- 第三部分 自动化 （由于前端发展变化，此部分已经不适用）
 
 
 
