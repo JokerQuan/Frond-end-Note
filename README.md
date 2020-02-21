@@ -35,7 +35,7 @@
 - [第二十一章 Ajax 与 Comet](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第二十一章%20Ajax%20与%20Comet.md)
 - [第二十二章 高级技巧](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第二十二章%20高级技巧.md)
 - [第二十三章 离线应用与客户端存储](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第二十三章%20离线应用与客户端存储.md)
-- [第十四章 表单脚本](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第十四章%20表单脚本.md)
+- [第二十四章 最佳实践](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1(%E7%AC%AC%E4%B8%89%E7%89%88)/%E7%AC%AC%E4%BA%8C%E5%8D%81%E5%9B%9B%E7%AB%A0%20%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md)
 - [第二十五章 新兴的 API](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/第二十五章%20新兴的%20API.md)
 - [附录](https://github.com/JokerQuan/Front-End-Note/blob/master/JavaScript高级程序设计(第三版)/附录.md)
 
