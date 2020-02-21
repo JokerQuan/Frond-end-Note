@@ -7,6 +7,7 @@
 1. <a href="#professional_javascript">JavaScript 高级程序设计</a>
 2. <a href="#data_stuct">数据结构与算法 JavaScript 描述</a>
 3. <a href="#maintainable_javascript">编写可维护的JavaScript</a>
+4. <a href="#high_performance_javascript">高性能JavaScript</a>
 
 
 
@@ -54,7 +55,18 @@
 
 
 
+### <a name="high_performance_javascript">高性能JavaScript</a>
 
+- [第一章 加载和执行](https://github.com/JokerQuan/Front-End-Note/blob/master/高性能JavaScript/第一章%20加载和执行.md)
+- [第二章 数据存取](https://github.com/JokerQuan/Front-End-Note/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20%E6%95%B0%E6%8D%AE%E5%AD%98%E5%8F%96.md)
+- [第三章 DOM 编程](https://github.com/JokerQuan/Front-End-Note/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript/%E7%AC%AC%E4%B8%89%E7%AB%A0%20DOM%20%E7%BC%96%E7%A8%8B.md)
+- [第四章 算法和流程控制](https://github.com/JokerQuan/Front-End-Note/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript/%E7%AC%AC%E5%9B%9B%E7%AB%A0%20%E7%AE%97%E6%B3%95%E5%92%8C%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6.md)
+- [第五章 字符串和正则表达式](https://github.com/JokerQuan/Front-End-Note/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript/%E7%AC%AC%E4%BA%94%E7%AB%A0%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+- [第六章 快速响应的用户界面](https://github.com/JokerQuan/Front-End-Note/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript/%E7%AC%AC%E5%85%AD%E7%AB%A0%20%E5%BF%AB%E9%80%9F%E5%93%8D%E5%BA%94%E7%9A%84%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2.md)
+- 第七章 Ajax（本章内容在高程第二十一章已有详细描述）
+- [第八章 编程实践](https://github.com/JokerQuan/Front-End-Note/blob/master/%E9%AB%98%E6%80%A7%E8%83%BDJavaScript/%E7%AC%AC%E5%85%AB%E7%AB%A0%20%E7%BC%96%E7%A8%8B%E5%AE%9E%E8%B7%B5.md)
+- 第九章 构建并部署高性能的 JavaScript 应用（由于前端发展变化，此部分已经不适用）
+- 第十章 工具（由于前端发展变化，此部分已经不适用）
 
 
 
