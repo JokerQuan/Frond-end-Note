@@ -23,8 +23,12 @@ module.exports = {
     author: '老背背',
     authorAvatar: '/logo.jpg',
 
+    //备案信息
     record: '滇ICP备20002269号',
     recordLink: 'http://www.beian.miit.gov.cn/',
+    cyberSecurityRecord: '滇公网安备 53062102000113号',
+    cyberSecurityLink: 'http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=53062102000113',
+
     // 项目开始时间
     startYear: '2019',
 
