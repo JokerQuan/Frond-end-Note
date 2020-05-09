@@ -31,9 +31,10 @@ module.exports = {
     valineConfig: {
       appId: 'dxW22tsGY3WNjS3ki12w5L4b-gzGzoHsz',// your appId
       appKey: 'pkpOzxuOrgYihu65XO7EM73t', // your appKey
-      placeholder: '填写邮箱可以收到回复通知哦~',
+      placeholder: '发表您的看法~',
       avatar: 'wavatar',
-      serverUrl: 'https://leanserver.smallsunnyfox.com'
+      serverUrl: 'https://leanserver.smallsunnyfox.com',
+      recordIP : true
     },
 
     // 侧边导航深度
